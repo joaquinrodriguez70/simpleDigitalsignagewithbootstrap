@@ -1,0 +1,54 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 0px 0px 0px 0px;
+    border-bottom: 1px ridge;
+    min-height:1080px;
+}
+
+.footer{
+    margin:0px auto;
+    padding: 0px 0px 0px 0px;
+}
+.jumbotron {
+    padding:0px 0px 0px 0px;
+    margin:0px auto;
+}
+
+body {
+  padding: 0px 0px 0px 0px;
+  z-index: 0;
+}
+
+
+
+.carousel {
+}
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+
+.carousel-item {
+    height: 1080px;
+
+}
+
+.carousel-caption {
+  color: white;
+  text-shadow: -1px -1px 0 grey, 1px -1px 0 grey, -1px 1px 0 grey, 1px 1px 0 grey;
+
+}
+
+
+.carousel-item img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 600px;
+}
